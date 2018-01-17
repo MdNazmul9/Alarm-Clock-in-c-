@@ -1,0 +1,19 @@
+D:\Alarm_clock\Alarm_clock\bin\Debug\Alarm_clock.exe
+D:\Alarm_clock\Alarm_clock\bin\Debug\Alarm_clock.pdb
+D:\Alarm_clock\Alarm_clock\bin\Debug\Interop.WMPLib.dll
+D:\Alarm_clock\Alarm_clock\bin\Debug\AxInterop.WMPLib.dll
+D:\Alarm_clock\Alarm_clock\obj\x86\Debug\Interop.WMPLib.dll
+D:\Alarm_clock\Alarm_clock\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Alarm_clock\Alarm_clock\obj\x86\Debug\Alarm_clock.csproj.ResolveComReference.cache
+D:\Alarm_clock\Alarm_clock\obj\x86\Debug\Alarm_clock.Form1.resources
+D:\Alarm_clock\Alarm_clock\obj\x86\Debug\Alarm_clock.Properties.Resources.resources
+D:\Alarm_clock\Alarm_clock\obj\x86\Debug\Alarm_clock.csproj.GenerateResource.Cache
+D:\Alarm_clock\Alarm_clock\obj\x86\Debug\Alarm_clock.exe
+D:\Alarm_clock\Alarm_clock\obj\x86\Debug\Alarm_clock.pdb
+D:\Alarm_clock\Alarm_clock\obj\x86\Debug\Alarm_clock.csprojResolveAssemblyReference.cache
+D:\Before 3-1\Alarm_clock\Alarm_clock\obj\x86\Debug\Interop.WMPLib.dll
+D:\Before 3-1\Alarm_clock\Alarm_clock\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Before 3-1\Alarm_clock\Alarm_clock\obj\x86\Debug\Alarm_clock.csproj.ResolveComReference.cache
+D:\Before 3-1\Alarm_clock\Alarm_clock\obj\x86\Debug\Alarm_clock.exe
+D:\Before 3-1\Alarm_clock\Alarm_clock\obj\x86\Debug\Alarm_clock.pdb
+D:\Before 3-1\Alarm_clock\Alarm_clock\obj\x86\Debug\Alarm_clock.csprojResolveAssemblyReference.cache
